@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Eptvmg.br" tvg-name="EPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png?20210422110904" group-title="GLOBO",EPTVMG
+#EXTINF:-1 tvg-id="Eptvmg.br" tvg-name="EPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="GLOBO",EPTV
 http://cdn4k.vip:80/robsongio05/gio202205rob/122149
-#EXTINF:-1 tvg-id="Eptvmg.br" tvg-name="EPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png?20210422110904" group-title="GLOBO",EPTVMG
+#EXTINF:-1 tvg-id="Eptvmg.br" tvg-name="EPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="GLOBO",EPTV
 http://cdn4k.vip:80/Alexandre7317/Al020422/122149
-#EXTINF:-1 tvg-id="Eptvmg.br" tvg-name="EPTV alt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png?20210422110904" group-title="GLOBO",EPTVMG
+#EXTINF:-1 tvg-id="Eptvmg.br" tvg-name="EPTV alt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="GLOBO",EPTV alt
 http://cdn4k.vip:80/robsongio05/gio202205rob/95640
-#EXTINF:-1 tvg-id="Eptvmg.br" tvg-name="EPTV alt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png?20210422110904" group-title="GLOBO",EPTVMG
+#EXTINF:-1 tvg-id="Eptvmg.br" tvg-name="EPTV alt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="GLOBO",EPTV alt
 http://cdn4k.vip:80/Alexandre7317/Al020422/95640
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="GLOBO",GloboRJ
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="GLOBO",Globo
 http://cdn4k.vip:80/Alexandre7317/Al020422/35759
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="GLOBO",GloboSP
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="GLOBO",Globo
 http://cdn4k.vip:80/robsongio05/gio202205rob/35753
 #EXTINF:-1 tvg-id="Sbtsp.br" tvg-name="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="SBT",SBT
 http://cdn4k.vip:80/Alexandre7317/Al020422/21135
