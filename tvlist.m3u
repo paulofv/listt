@@ -1,85 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Eptvmg.br" tvg-name="EPTV Sul de Minas FHD 1" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO INTERIOR",EPTV Sul de Minas FHD 1
+#EXTINF:-1 tvg-id="Eptvmg.br" tvg-name="EPTV 1" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO INTERIOR",EPTV 1
 http://cdn4k.vip:80/robsongio05/gio202205rob/122149
-#EXTINF:-1 tvg-id="Eptvmg.br" tvg-name="EPTV Sul de Minas HD 1" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO INTERIOR",EPTV Sul de Minas HD 1
-http://cdn4k.vip:80/robsongio05/gio202205rob/122148
-#EXTINF:-1 tvg-id="Eptvmg.br" tvg-name="EPTV Sul de Minas FHD 2" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO INTERIOR",EPTV Sul de Minas FHD 2
+#EXTINF:-1 tvg-id="Eptvmg.br" tvg-name="EPTV 2" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO INTERIOR",EPTV 2
 http://cdn4k.vip:80/Alexandre7317/Al020422/122149
-#EXTINF:-1 tvg-id="Eptvmg.br" tvg-name="EPTV Sul de Minas HD 2" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO INTERIOR",EPTV Sul de Minas HD 2
-http://cdn4k.vip:80/Alexandre7317/Al020422/122148
-#EXTINF:-1 tvg-id="Eptvmg.br" tvg-name="EPTV Sul de Minas FHD 3" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO INTERIOR",EPTV Sul de Minas FHD 3
+#EXTINF:-1 tvg-id="Eptvmg.br" tvg-name="EPTV alt1" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO INTERIOR",EPTV alt1
 http://cdn4k.vip:80/robsongio05/gio202205rob/95640
-#EXTINF:-1 tvg-id="Eptvmg.br" tvg-name="EPTV Sul de Minas HD 3" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO INTERIOR",EPTV Sul de Minas HD 3
-http://cdn4k.vip:80/robsongio05/gio202205rob/95641
-#EXTINF:-1 tvg-id="Eptvmg.br" tvg-name="EPTV Sul de Minas FHD 4" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO INTERIOR",EPTV Sul de Minas FHD 4
+#EXTINF:-1 tvg-id="Eptvmg.br" tvg-name="EPTV alt2" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO INTERIOR",EPTV alt2
 http://cdn4k.vip:80/Alexandre7317/Al020422/95640
-#EXTINF:-1 tvg-id="Eptvmg.br" tvg-name="EPTV Sul de Minas HD 4" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO INTERIOR",EPTV Sul Minas de HD 4
-http://cdn4k.vip:80/Alexandre7317/Al020422/95641
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo SP HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO CAPITAIS",Globo SP HD
-http://cdn4k.vip:80/Alexandre7317/Al020422/233447
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO CAPITAIS",Globo SP HD²
-http://cdn4k.vip:80/Alexandre7317/Al020422/35907
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO CAPITAIS",Globo SP SD
-http://cdn4k.vip:80/Alexandre7317/Al020422/35755
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP SD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO CAPITAIS",Globo SP SD²
-http://cdn4k.vip:80/Alexandre7317/Al020422/35906
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ FHD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO CAPITAIS",Globo RJ FHD
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO CAPITAIS",Globo RJ
 http://cdn4k.vip:80/Alexandre7317/Al020422/35759
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ FHD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO CAPITAIS",Globo RJ FHD²
-http://cdn4k.vip:80/Alexandre7317/Al020422/61623
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo RJ HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO CAPITAIS",Globo RJ HD
-http://cdn4k.vip:80/Alexandre7317/Al020422/35760
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO CAPITAIS",Globo RJ HD²
-http://cdn4k.vip:80/Alexandre7317/Al020422/35970
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO CAPITAIS",Globo RJ SD
-http://cdn4k.vip:80/Alexandre7317/Al020422/35761
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ SD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO CAPITAIS",Globo RJ SD²
-http://cdn4k.vip:80/Alexandre7317/Al020422/35915
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP FHD 1" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO CAPITAIS",Globo SP FHD 1
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO CAPITAIS",Globo SP
 http://cdn4k.vip:80/robsongio05/gio202205rob/35753
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP FHD² 1" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO CAPITAIS",Globo SP FHD² 1
-http://cdn4k.vip:80/robsongio05/gio202205rob/26162
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo SP HD 1" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO CAPITAIS",Globo SP HD 1
-http://cdn4k.vip:80/robsongio05/gio202205rob/233447
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD² 1" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO CAPITAIS",Globo SP HD² 1
-http://cdn4k.vip:80/robsongio05/gio202205rob/35907
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP SD 1" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO CAPITAIS",Globo SP SD 1
-http://cdn4k.vip:80/robsongio05/gio202205rob/35755
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP SD² 1" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO CAPITAIS",Globo SP SD² 1
-http://cdn4k.vip:80/robsongio05/gio202205rob/35906
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ FHD 1" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO CAPITAIS",Globo RJ FHD 1
-http://cdn4k.vip:80/robsongio05/gio202205rob/35759
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ FHD² 1" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO CAPITAIS",Globo RJ FHD² 1
-http://cdn4k.vip:80/robsongio05/gio202205rob/61623
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo RJ HD 1" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO CAPITAIS",Globo RJ HD 1
-http://cdn4k.vip:80/robsongio05/gio202205rob/35760
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD² 1" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO CAPITAIS",Globo RJ HD² 1
-http://cdn4k.vip:80/robsongio05/gio202205rob/35970
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ SD 1" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO CAPITAIS",Globo RJ SD 1
-http://cdn4k.vip:80/robsongio05/gio202205rob/35761
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ SD² 1" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO CAPITAIS",Globo RJ SD² 1
-http://cdn4k.vip:80/robsongio05/gio202205rob/35915
-#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band SP FHD" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band SP FHD
+#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band SP 1" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band SP 1
 http://cdn4k.vip:80/Alexandre7317/Al020422/10869
-#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band SP FHD²" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band SP FHD²
-http://cdn4k.vip:80/Alexandre7317/Al020422/16874
-#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band SP HD" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band SP HD
-http://cdn4k.vip:80/Alexandre7317/Al020422/6640
-#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band SP HD²" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band SP HD²
-http://cdn4k.vip:80/Alexandre7317/Al020422/35364
-#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band SP SD" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band SP SD
-http://cdn4k.vip:80/Alexandre7317/Al020422/6427
-#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band SP SD²" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band SP SD²
-http://cdn4k.vip:80/Alexandre7317/Al020422/35365
-#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band SP FHD 1" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band SP FHD 1
+#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band SP 2" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band SP 2
 http://cdn4k.vip:80/robsongio05/gio202205rob/10869
-#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band SP FHD² 1" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band SP FHD² 1
+#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band SP alt1" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band SP alt1
+http://cdn4k.vip:80/Alexandre7317/Al020422/16874
+#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band SP alt2" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band SP Falt2
 http://cdn4k.vip:80/robsongio05/gio202205rob/16874
-#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band SP HD 1" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band SP HD 1
-http://cdn4k.vip:80/robsongio05/gio202205rob/6640
-#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band SP HD² 1" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band SP HD² 1
-http://cdn4k.vip:80/robsongio05/gio202205rob/35364
-#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band SP SD 1" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band SP SD 1
-http://cdn4k.vip:80/robsongio05/gio202205rob/6427
-#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band SP SD² 1" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band SP SD² 1
-http://cdn4k.vip:80/robsongio05/gio202205rob/35365
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida 1" tvg-logo="https://fivetv.xyz/logos/redevida.png" group-title="RELIGIOSOS",Rede Vida 1
+http://cdn4k.vip:80/Alexandre7317/Al020422/28625
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida 2" tvg-logo="https://fivetv.xyz/logos/redevida.png" group-title="RELIGIOSOS",Rede Vida 2
+http://cdn4k.vip:80/robsongio05/gio202205rob/28625
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida alt1" tvg-logo="https://fivetv.xyz/logos/redevida.png" group-title="RELIGIOSOS",Rede Vida alt1
+http://cdn4k.vip:80/Alexandre7317/Al020422/100482
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida alt2" tvg-logo="https://fivetv.xyz/logos/redevida.png" group-title="RELIGIOSOS",Rede Vida alt2
+http://cdn4k.vip:80/robsongio05/gio202205rob/100482
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV Aparecida 1" tvg-logo="https://fivetv.xyz/logos/aparecida.png" group-title="RELIGIOSOS",TV Aparecida 1
+http://cdn4k.vip:80/robsongio05/gio202205rob/100520
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV Aparecida 2" tvg-logo="https://fivetv.xyz/logos/aparecida.png" group-title="RELIGIOSOS",TV Aparecida 2
+http://cdn4k.vip:80/Alexandre7317/Al020422/100520
