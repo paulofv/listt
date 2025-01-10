@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Eptvmg.br" tvg-name="EPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="GLOBO",EPTV
-http://cdn4k.vip:80/CLAUDIOLION/CLAUDIOCLROD/122149
+http://cdn4k.vip:80/baraujo01/Bb199812/122149
 #EXTINF:-1 tvg-id="Eptvmg.br" tvg-name="EPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="GLOBO",EPTV
 http://cdn4k.vip:80/Alexandre7317/Al020422/122149
 #EXTINF:-1 tvg-id="Eptvmg.br" tvg-name="EPTV alt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="GLOBO",EPTV alt
-http://cdn4k.vip:80/CLAUDIOLION/CLAUDIOCLROD/95640
+http://cdn4k.vip:80/baraujo01/Bb199812/95640
 #EXTINF:-1 tvg-id="Eptvmg.br" tvg-name="EPTV alt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="GLOBO",EPTV alt
 http://cdn4k.vip:80/Alexandre7317/Al020422/95640
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="GLOBO",Globo
 http://cdn4k.vip:80/baraujo01/Bb199812/35753
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/800px-Logotipo_da_GloboNews.png" group-title="GLOBO",Globo News
-http://cdn4k.vip:80/CLAUDIOLION/CLAUDIOCLROD/36101
+http://cdn4k.vip:80/baraujo01/Bb199812/36101
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/800px-Logotipo_da_GloboNews.png" group-title="GLOBO",Globo News
 http://cdn4k.vip:80/Alexandre7317/Al020422/36101
 #EXTINF:-1 tvg-id="Sbtsp.br" tvg-name="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="SBT",SBT
-http://cdn4k.vip:80/CLAUDIOLION/CLAUDIOCLROD/21135
+http://cdn4k.vip:80/baraujo01/Bb199812/21135
 #EXTINF:-1 tvg-id="Sbtsp.br" tvg-name="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="SBT",SBT
 http://cdn4k.vip:80/Alexandre7317/Al020422/21135
 #EXTINF:-1 tvg-id="Sbtsp.br" tvg-name="SBT alt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="SBT",SBT
@@ -24,11 +24,11 @@ http://cdn4k.vip:80/Alexandre7317/Al020422/26165
 #EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/200px-Rede_Bandeirantes_logo_2018.svg.png" group-title="BAND",Band
 http://cdn4k.vip:80/Alexandre7317/Al020422/10869
 #EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/200px-Rede_Bandeirantes_logo_2018.svg.png" group-title="BAND",Band
-http://cdn4k.vip:80/CLAUDIOLION/CLAUDIOCLROD/10869
+http://cdn4k.vip:80/baraujo01/Bb199812/10869
 #EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band alt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/200px-Rede_Bandeirantes_logo_2018.svg.png" group-title="BAND",Band
 http://cdn4k.vip:80/Alexandre7317/Al020422/16874
 #EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band alt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/200px-Rede_Bandeirantes_logo_2018.svg.png" group-title="BAND",Band
-http://cdn4k.vip:80/CLAUDIOLION/CLAUDIOCLROD/16874
+http://cdn4k.vip:80/baraujo01/Bb199812/16874
 #EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="RELIGIOSOS",Rede Vida
 http://cdn4k.vip:80/Alexandre7317/Al020422/28625
 #EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="RELIGIOSOS",Rede Vida
