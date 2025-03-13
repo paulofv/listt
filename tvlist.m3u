@@ -2,24 +2,18 @@
 #EXTINF:-1 tvg-id="Eptvmg.br" tvg-name="EPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="GLOBO",EPTV
 http://nexusplay.eu:80/709226029/1553775/2383
 #EXTINF:-1 tvg-id="Eptvmg.br" tvg-name="EPTV alt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="GLOBO",EPTV alt
-http://analov.lat:80/flavio2040/20152016/122149
-#EXTINF:-1 tvg-id="Eptvmg.br" tvg-name="EPTV alt 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="GLOBO",EPTV alt
-http://analov.lat:80/flavio2040/20152016/95640
+http://nexusplay.eu:80/709226029/1553775/2382
 #EXTINF:-1 tvg-id="Sbtsp.br" tvg-name="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="SBT",SBT
-http://analov.lat/flavio2040/20152016/21135
+http://nexusplay.eu:80/709226029/1553775/244161
 #EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/200px-Rede_Bandeirantes_logo_2018.svg.png" group-title="BAND",Band
 http://nexusplay.eu:80/709226029/1553775/255465
 #EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band alt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/200px-Rede_Bandeirantes_logo_2018.svg.png" group-title="BAND",Band
-http://analov.lat/flavio2040/20152016/35364
+http://nexusplay.eu:80/709226029/1553775/255467
 #EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="RELIGIOSOS",Rede Vida
-http://analov.lat/flavio2040/20152016/10699
-#EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida alt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="RELIGIOSOS",Rede Vida
-http://analov.lat/flavio2040/20152016/100483
+http://nexusplay.eu:80/709226029/1553775/198
 #EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV Aparecida" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="RELIGIOSOS",TV Aparecida
-http://analov.lat/flavio2040/20152016/10662
-#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV Aparecida alt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="RELIGIOSOS",TV Aparecida
-http://analov.lat/flavio2040/20152016/100519
+http://nexusplay.eu:80/709226029/1553775/190
 #EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV Canção Nova" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="RELIGIOSOS",TV Canção Nova
-http://analov.lat/flavio2040/20152016/6630
+http://nexusplay.eu:80/709226029/1553775/240805
 #EXTINF:-1 tvg-id="Tvevangelizar.br" tvg-name="TV Evangelizar" tvg-logo="http://70.ms/TS" group-title="RELIGIOSOS",TV Evangelizar
-http://analov.lat/flavio2040/20152016/26435
+http://nexusplay.eu:80/709226029/1553775/186967
