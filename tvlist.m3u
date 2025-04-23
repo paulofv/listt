@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Eptvmg.br" tvg-name="EPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="GLOBO",EPTV
-http://nexusplay.eu:80/709226029/1553775/2382
+http://cdn4k.wiki/27998180775/1425363636/122148
 #EXTINF:-1 tvg-id="Eptvmg.br" tvg-name="EPTV alt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="GLOBO",EPTV alt
 http://pfsv.io:80/RO2023/09fev2023/109983.ts
 #EXTINF:-1 tvg-id="Sbtsp.br" tvg-name="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="SBT",SBT
@@ -8,7 +8,7 @@ http://nexusplay.eu:80/709226029/1553775/244167
 #EXTINF:-1 tvg-id="Sbtsp.br" tvg-name="SBT alt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="SBT",SBT
 http://pfsv.io:80/RO2023/09fev2023/55.ts
 #EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/200px-Rede_Bandeirantes_logo_2018.svg.png" group-title="BAND",Band
-http://nexusplay.eu:80/709226029/1553775/255467
+http://cdn4k.wiki/27998180775/1425363636/6640
 #EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band alt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/200px-Rede_Bandeirantes_logo_2018.svg.png" group-title="BAND",Band
 http://pfsv.io:80/RO2023/09fev2023/113584.ts
 #EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="RELIGIOSOS",Rede Vida
